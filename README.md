@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tobu-ekla/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Tobu Ekla](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tobu-ekla/) |
+| **Get License** | [Request Licensing for Tobu Ekla](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tobu-ekla/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> রাতের আকাশ কাঁদে তোমার অপেক্ষায়
+> আমার এ মন শুধু তোমায় ছুঁতে চায়
+> বলো না কবে তুমি আসবে আমার কাছে
+> আমার এ প্রাণ শুধু তোমার প্রেম যাচে
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
