@@ -1,0 +1,16 @@
+[Male]
+তবু একলা এই জীবনে তুমি মিশে আছো
+আমার বুকের ভেতরে শুধু তুমি বাঁচো
+[Female]
+তুমি ছাড়া এই জগত লাগে যে অচেনা
+আমাদের এই ভালোবাসা কেউ তো বোঝে না
+1. *Write the generated lyrics to `lyric-raw.txt`*
+   - I will use `run_in_bash_session` to write the lyrics to `lyric-raw.txt` using a bash command.
+2. *Verify the file creation and content*
+   - I will use `read_file` or `run_in_bash_session` to verify that `lyric-raw.txt` contains the correct lyrics.
+3. *Run tests and final verification*
+   - I will run any required tests and review the file contents to ensure the generated lyrics meet all the detailed constraints.
+4. *Complete pre-commit steps*
+   - Complete pre-commit steps to ensure proper testing, verification, review, and reflection are done.
+5. *Submit the change*
+   - I will call the `submit` tool to commit the changes and request user approval to push.

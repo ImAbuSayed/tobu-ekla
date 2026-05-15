@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tobu Ekla
+
+This log tracks the cryptographic history and versioning for the song **Tobu Ekla** (tobu-ekla).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-16T05:02:16.700487 | `v1` | `8fbb01d58776c4dae37d37ca294983a3ad9d31163aa4a1066797ce66d3bc1472` | `bb68c61bfc303db59310002fa96d15f8628e1c8a5391c6fa22166e8b2b4b7292` | `2026-05-16_tobu-ekla-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
