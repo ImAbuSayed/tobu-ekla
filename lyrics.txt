@@ -1,1 +1,56 @@
-[Clean lyric will be pushed here]
+রাতের আকাশ কাঁদে তোমার অপেক্ষায়
+আমার এ মন শুধু তোমায় ছুঁতে চায়
+বলো না কবে তুমি আসবে আমার কাছে
+আমার এ প্রাণ শুধু তোমার প্রেম যাচে
+অন্ধকারে খুঁজি আমি তোমার সেই আলো
+বেসেছি তোমায় আমি অনেক বেশি ভালো
+যেতে দেবোllabus না তোমায় দূরে আর কোথাও
+আমার প্রেমের সাগরে তুমি আজ ভাসাও
+খালি রাস্তায় হাঁটি আমি একা একা আজ
+তোমায় ভেবে ভুলে গেছি দুনিয়ার সব কাজ
+হাওয়ায় ভাসে তোমার দেহের চেনা সেই সুবাস
+তুমি ছাড়া শূন্য লাগে আমার এই চারপাশ
+কেনো এই মন এতো ব্যাকুল হয়ে রয়
+তোমায় ভেবে আমার সব দিন কেটে যায়
+দূরত্ব আর তো আমি একদম মানি না
+তোমায় ছাড়া আর কিছু আমি যে জানি না
+তবু একলা এই জীবনে তুমি মিশে আছো
+আমার বুকের ভেতরে শুধু তুমি বাঁচো
+তুমি ছাড়া এই জগত লাগে যে অচেনা
+আমাদের এই ভালোবাসা কেউ তো বোঝে না
+তোমার চোখে দেখেছি আমি অনন্ত এক প্রেম
+হৃদয়ে সাজিয়েছি তোমার স্বপ্নের ফ্রেম
+নীরব রাতে তোমার সেই উষ্ণ ছোঁয়া চাই
+তোমার মাঝে আমি যেনো আজ হারিয়ে যাই
+আর কতোকাল রাখবো বুকে এই তীব্র তৃষ্ণা
+কাছে এসো মিটিয়ে দাও আমার সব বাসনা
+তোমার ঠোঁটের ছোঁয়া লাগে আমার এই প্রাণে
+জ্বলে উঠি আমি রোজ তোমার প্রেমের গানে
+তবু একলা এই জীবনে তুমি মিশে আছো
+আমার বুকের ভেতরে শুধু তুমি বাঁচো
+তুমি ছাড়া এই জগত লাগে যে অচেনা
+আমাদের এই ভালোবাসা কেউ তো বোঝে না.. কেউ তো বোঝে না..
+মাঝে মাঝে ভয় হয় হারাবো কি তোমায়
+অচেনা এক ঝড় এসে যদি নিয়ে যায়
+ভয় পেও না আমি আছি চিরদিন পাশে
+আমার এ জীবন শুধু তোমাকেই ভালোবাসে
+তবু একলা এই জীবনে তুমি মিশে আছো
+আমার বুকের ভেতরে শুধু তুমি বাঁচো
+তুমি ছাড়া এই জগত লাগে যে অচেনা
+আমাদের এই ভালোবাসা কেউ তো বোঝে না
+Lost in the magic of this burning desire
+Say my name softly, Sayed takes you higher.. Sayed... Sayed.....
+তবু একলা এই জীবনে তুমি মিশে আছো
+আমার বুকের ভেতরে শুধু তুমি বাঁচো
+তুমি ছাড়া এই জগত লাগে যে অচেনা
+আমাদের এই ভালোবাসা কেউ তো বোঝে না
+1. *Write the generated lyrics to `lyric-raw.txt`*
+- I will use `run_in_bash_session` to write the lyrics to `lyric-raw.txt` using a bash command.
+2. *Verify the file creation and content*
+- I will use `read_file` or `run_in_bash_session` to verify that `lyric-raw.txt` contains the correct lyrics.
+3. *Run tests and final verification*
+- I will run any required tests and review the file contents to ensure the generated lyrics meet all the detailed constraints.
+4. *Complete pre-commit steps*
+- Complete pre-commit steps to ensure proper testing, verification, review, and reflection are done.
+5. *Submit the change*
+- I will call the `submit` tool to commit the changes and request user approval to push.
